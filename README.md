@@ -1,5 +1,5 @@
-# X-LD
-R package {XLDPlus} has been developed to compute for complex LD patterns for biobank-scale sample.
+# X-LDR
+R package {XLDR} has been developed to compute for complex LD patterns for biobank-scale sample.
 
 ## Installation
 
@@ -7,8 +7,8 @@ R package {XLDPlus} has been developed to compute for complex LD patterns for bi
 # This is an R console
 # 1. First, make sure the following R packages are installed
 install.packages(c("ggplot2","zip","data.table"))
-# 2. Then, download the source codes of X-LD (XLDPlus_0.1.0.tar.gz), and install it.
-install.packages("XLD_0.1.0.tar.gz",type="source",repos=NULL)
+# 2. Then, download the source codes of X-LDR (XLDR_0.1.0.tar.gz), and install it.
+install.packages("XLDR_0.1.0.tar.gz",type="source",repos=NULL)
 ```
 
 ## Usage
